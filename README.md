@@ -1,7 +1,7 @@
 ![ROADMAP](allv1.png)
 
-# UPDATE: We've expanded our repository with complete career paths, essential skills training, and a ton of practical utilities and materials—all available for free! Whether you're just starting out or looking to level up, enroll in any career path at no cost, keep progressing, and fuel your professional growth with these comprehensive tools designed to help you succeed. Check out our app for seamless access and personalized guidance!
-[Career Coach](https://hadess.io)
+# UPDATE: We've expanded our repository with complete career paths, essential skills training, and a ton of practical utilities and materials—all available for free! Whether you're just starting out or looking to level up, enroll in any career path at no cost, keep progressing, and fuel your professional growth with these comprehensive tools designed to help you succeed. Check out our app for seamless access and personalized guidance! [Career Coach](https://hadess.io)
+
 
 Cybersecurity Career Path ⬆️
 
